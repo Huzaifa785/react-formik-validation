@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-formik-validation/static/js/main.a1efe8bc.chunk.js",
+    "main.js.map": "/react-formik-validation/static/js/main.a1efe8bc.chunk.js.map",
+    "runtime-main.js": "/react-formik-validation/static/js/runtime-main.2bcdb9c8.js",
+    "runtime-main.js.map": "/react-formik-validation/static/js/runtime-main.2bcdb9c8.js.map",
+    "static/js/2.52694dcf.chunk.js": "/react-formik-validation/static/js/2.52694dcf.chunk.js",
+    "static/js/2.52694dcf.chunk.js.map": "/react-formik-validation/static/js/2.52694dcf.chunk.js.map",
+    "index.html": "/react-formik-validation/index.html",
+    "static/js/2.52694dcf.chunk.js.LICENSE.txt": "/react-formik-validation/static/js/2.52694dcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bcdb9c8.js",
+    "static/js/2.52694dcf.chunk.js",
+    "static/js/main.a1efe8bc.chunk.js"
+  ]
+}
